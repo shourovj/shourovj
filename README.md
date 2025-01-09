@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 69cbbb1 (first)
 ## Hi there 👋
 
 <!--
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<<<<<<< HEAD
+=======
+=======
+# demo2
+>>>>>>> f2ac132 (first commit)
+>>>>>>> 69cbbb1 (first)

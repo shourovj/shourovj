@@ -1,0 +1,193 @@
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    background-color: #fdfbe3;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;    /* Stack items vertically */
+    justify-content: space-between;
+    align-items: center;       /* Center the content horizontally */
+    width: 100%;               /* Take full width but with constraints */
+    max-width: 800px;         /* Max width of the box */
+    margin: auto;
+    padding: 30px;             /* Add padding around the box */
+    border: 1px solid #ccc;   /* Border around the box */
+    border-radius: 10px;      /* Optional: rounded corners */
+    background-color: #ffffff; /* White background for the box */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow around the box */
+}
+
+
+nav {
+    display: flex;
+    gap: 20px;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    transform: scale(1.1);
+}
+
+nav a.active {
+    font-weight: bold;
+    text-decoration: underline; /* Optional underline for active */
+}
+
+
+.info {
+    max-width: 60%;
+    align-items: left;
+    margin: 20px;
+}
+
+.info h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.info h2 {
+    margin: 5px 0;
+    font-size: 24px;
+    color: #555;
+}
+
+.social-icons {
+    display: flex;
+    gap: 20px;  /* Space between the social media links */
+    font-size: 24px;  /* Icon size */
+    padding: 20px;
+}
+
+.social-icons a {
+    text-decoration: none;
+    color: #333;  /* Default color */
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #0077b5;  /* LinkedIn blue for hover */
+}
+
+.social-icons i {
+    margin-right: 8px;  /* Space between icon and text */
+}
+
+/* Optional: Adjust icon size or hover effects */
+.social-icons a:hover i {
+    transform: scale(1.2);  /* Slight zoom effect on hover */
+}
+
+.currently {
+    margin-top: 20px;
+}
+
+.news {
+    margin-top: 20px;
+}
+
+
+.profile-pic {
+    width: 200px;
+    height: 141px;
+    border-radius: 5%;
+    margin-left: 10px;
+}
+
+
+
+
+.content {
+    display: flex;
+    flex-direction: column;    /* Stack items vertically */
+    justify-content: space-between;
+    align-items: center;       /* Center the content horizontally */
+    width: 100%;               /* Take full width but with constraints */
+    max-width: 800px;         /* Max width of the box */
+    margin: auto;
+    padding: 30px;             /* Add padding around the box */
+    border: 1px solid #ccc;   /* Border around the box */
+    border-radius: 10px;      /* Optional: rounded corners */
+    background-color: #ffffff; /* White background for the box */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow around the box */
+}
+
+.content ul {
+  list-style: none; /* Remove default bullet points */
+  padding: 0;
+  margin: 0;
+}
+
+.content .project {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.content .project img {
+  width: 100px; /* Adjust image width as needed */
+  height: 60px;
+  margin-right: 20px;
+}
+
+
+
+
+
+
+
+/* .contact-links a {
+    margin-right: 10px;
+}
+
+.contact-links img {
+    width: 24px;
+    height: 24px;
+}
+
+.currently {
+    margin: 20px 5%;
+    font-family: "Georgia", serif;
+    line-height: 1.5;
+}
+
+.currently a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.currently a:hover {
+    text-decoration: underline;
+}
+ */
+
+/* .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+    padding: 0 5%;
+}
+
+.header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 1.2rem;
+} */
