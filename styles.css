@@ -101,13 +101,23 @@ nav a.active {
 }
 
 
-.profile-pic {
+/* .profile-pic {
     width: 200px;
     height: 141px;
     border-radius: 5%;
     margin-left: 10px;
+} */
+.profile-pic {
+  flex-shrink: 0; /* Prevent the image from shrinking */
+  width: 250px; /* Set a fixed width for the image container */
 }
 
+.profile-pic img {
+  width: 200px;
+  height: 141px; /* Ensure the image scales properly */
+  border-radius: 10px; /* Optional: Add rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a shadow for better styling */
+}
 
 
 
@@ -142,52 +152,3 @@ nav a.active {
   height: 60px;
   margin-right: 20px;
 }
-
-
-
-
-
-
-
-/* .contact-links a {
-    margin-right: 10px;
-}
-
-.contact-links img {
-    width: 24px;
-    height: 24px;
-}
-
-.currently {
-    margin: 20px 5%;
-    font-family: "Georgia", serif;
-    line-height: 1.5;
-}
-
-.currently a {
-    color: #0066cc;
-    text-decoration: none;
-}
-
-.currently a:hover {
-    text-decoration: underline;
-}
- */
-
-/* .header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 20px 0;
-    padding: 0 5%;
-}
-
-.header h1 {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-
-.header p {
-    font-size: 1.2rem;
-} */
