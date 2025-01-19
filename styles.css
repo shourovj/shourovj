@@ -8,7 +8,7 @@ body {
 
 .container {
     display: flex;
-    flex-direction: row;    /* Stack items vertically */
+    flex-direction: column;    /* Stack items vertically */
     justify-content: space-between;
     align-items: center;       /* Center the content horizontally */
     width: 100%;               /* Take full width but with constraints */
@@ -47,8 +47,16 @@ nav a.active {
 }
 
 
+/* .info {
+    display: flex;
+    flex-direction: column;    /* Stack items vertically */
+/*     justify-content: space-between;
+    align-items: center; 
+} */
 .info {
     max-width: 60%;
+    flex-direction: column;    /* Stack items vertically */
+    justify-content: space-between;
     align-items: left;
     margin: 20px;
 }
