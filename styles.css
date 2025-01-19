@@ -8,13 +8,14 @@ body {
 
 .container {
     display: flex;
-    flex-direction: column;    /* Stack items vertically */
+    flex-direction: row;    /* Stack items vertically */
     justify-content: space-between;
     align-items: center;       /* Center the content horizontally */
     width: 100%;               /* Take full width but with constraints */
     max-width: 800px;         /* Max width of the box */
     margin: auto;
     padding: 30px;             /* Add padding around the box */
+    gap: 20px;
     border: 1px solid #ccc;   /* Border around the box */
     border-radius: 10px;      /* Optional: rounded corners */
     background-color: #ffffff; /* White background for the box */
