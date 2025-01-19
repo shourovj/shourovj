@@ -120,6 +120,7 @@ nav a.active {
 .profile-pic {
   flex-shrink: 0; /* Prevent the image from shrinking */
   width: 250px; /* Set a fixed width for the image container */
+  margin-left: 20px;
 }
 
 .profile-pic img {
