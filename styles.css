@@ -115,7 +115,7 @@ nav a.active {
 .currently, .news {
     text-align: flex-start; /* Align both sections to the left */
     margin-left: 0;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 10px 0;  /* Optional: Add consistent padding */
 }
 
