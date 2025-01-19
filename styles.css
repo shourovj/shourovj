@@ -55,7 +55,7 @@ nav a.active {
 } */
 .info {
     max-width: 60%;
-    flex-direction: column;    /* Stack items vertically */
+    flex-direction: row;    /* Stack items vertically */
     justify-content: space-between;
     align-items: left;
     margin: 20px;
