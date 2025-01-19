@@ -107,6 +107,15 @@ nav a.active {
     align-items: left;
     margin-top: 20px;
 }
+.news h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.news p {
+    margin: 0;
+    font-size: 16px;
+}
 
 
 /* .profile-pic {
@@ -127,6 +136,21 @@ nav a.active {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a shadow for better styling */
 }
 
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;  /* Stack text and image vertically */
+        align-items: center;    /* Center align content */
+    }
+
+    .info {
+        padding-right: 0;       /* Remove right padding for stacked layout */
+        text-align: center;     /* Center align text */
+    }
+
+    .profile-pic {
+        margin-top: 20px;       /* Add spacing above the image */
+    }
+}
 
 
 .content {
@@ -160,3 +184,6 @@ nav a.active {
   height: 60px;
   margin-right: 20px;
 }
+
+
+
