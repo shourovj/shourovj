@@ -131,6 +131,13 @@ nav a.active {
     padding: 10px 0;  /* Optional: Add consistent padding */
 }
 
+.news h3 {
+    margin-left: -100px;
+    /* margin-right: 150px;
+    margin-top: -155px; */
+}
+
+
 a {
     text-decoration: none; /* Removes the underline */
 }
