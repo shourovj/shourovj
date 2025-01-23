@@ -1,7 +1,7 @@
 body {
     font-family: 'Georgia', serif;
     line-height: 1.6;
-    background-color: #fdfbe3;
+    background-color: #6ea8ff3b;
     margin: 0;
     padding: 20px;
 }
@@ -12,28 +12,28 @@ body {
     justify-content: space-between;
     align-items: center;       /* Center the content horizontally */
     width: 100%;               /* Take full width but with constraints */
-    max-width: 800px;         /* Max width of the box */
+    max-width: 700px;         /* Max width of the box */
     margin: auto;
     padding: 30px;             /* Add padding around the box */
     gap: 20px;
-    border: 1px solid #ccc;   /* Border around the box */
-    border-radius: 10px;      /* Optional: rounded corners */
-    background-color: #ffffff; /* White background for the box */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow around the box */
+    border: 1px solid #ffffff00;   /* Border around the box */
+    border-radius: 30px;      /* Optional: rounded corners */
+    background-color: #ffffffa8; /* White background for the box */
+    box-shadow: 0 8px 12px rgba(0, 0, 0, .5); /* Optional: subtle shadow around the box */
 }
 
 
 nav {
     display: flex;
-    gap: 20px;
+    gap: 30px;
     font-weight: bold;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 10px;
+    border-bottom: 1px solid #ffffff00;
+    padding-bottom: 20px;
 }
 
 nav a {
     text-decoration: none;
-    color: #333;
+    color: #0e0e0e;
 }
 
 nav a:hover {
@@ -64,7 +64,7 @@ nav a.active {
 .info h1 {
     margin: 0;
     font-size: 24px;
-    margin-left: -70px;
+    margin-left: -90px;
     margin-right: 150px;
     margin-top: -155px;
 }
@@ -73,13 +73,13 @@ nav a.active {
     margin: 5px 0;
     font-size: 16px;
     color: #555;
-    margin-left: -70px;
+    margin-left: -90px;
     margin-right: 15px;
 }
 
 .info p {
     font-size: 14px;
-    margin-left: -70px;
+    margin-left: -90px;
     margin-right: -30px;
 }
 .social-icons {
@@ -87,7 +87,7 @@ nav a.active {
     gap: 20px;  /* Space between the social media links */
     font-size: 24px;  /* Icon size */
     padding: 20px;
-    margin-left: -90px;
+    margin-left: -110px;
     margin-right: -30px;
 }
 
@@ -176,13 +176,14 @@ nav a.active {
     justify-content: space-between;
     align-items: center;       /* Center the content horizontally */
     width: 100%;               /* Take full width but with constraints */
-    max-width: 800px;         /* Max width of the box */
+    max-width: 700px;         /* Max width of the box */
     margin: auto;
     padding: 30px;             /* Add padding around the box */
-    border: 1px solid #ccc;   /* Border around the box */
-    border-radius: 10px;      /* Optional: rounded corners */
-    background-color: #ffffff; /* White background for the box */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow around the box */
+    gap: 20px;
+    border: 1px solid #ffffff00;   /* Border around the box */
+    border-radius: 30px;      /* Optional: rounded corners */
+    background-color: #ffffffa8; /* White background for the box */
+    box-shadow: 0 8px 12px rgba(0, 0, 0, .5); /* Optional: subtle shadow around the box */
 }
 
 .content ul {
