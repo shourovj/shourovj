@@ -12,7 +12,7 @@ body {
     justify-content: space-between;
     align-items: center;       /* Center the content horizontally */
     width: 100%;               /* Take full width but with constraints */
-    max-width: 700px;         /* Max width of the box */
+    max-width: 800px;         /* Max width of the box */
     margin: auto;
     padding: 30px;             /* Add padding around the box */
     gap: 20px;
@@ -176,7 +176,7 @@ nav a.active {
     justify-content: space-between;
     align-items: center;       /* Center the content horizontally */
     width: 100%;               /* Take full width but with constraints */
-    max-width: 700px;         /* Max width of the box */
+    max-width: 800px;         /* Max width of the box */
     margin: auto;
     padding: 30px;             /* Add padding around the box */
     gap: 20px;
