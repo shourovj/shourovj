@@ -131,6 +131,13 @@ nav a.active {
     padding: 10px 0;  /* Optional: Add consistent padding */
 }
 
+a {
+    text-decoration: none; /* Removes the underline */
+}
+
+a:hover {
+    color: #032c86; /* Optional: Change link color on hover */
+}
 
 /* .profile-pic {
     width: 200px;
