@@ -211,30 +211,47 @@ a:hover {
   margin-bottom: 20px;
 }
 
+.content .project1, .project2, .project3, .project4, .project5, .project6 :hover {
+    transform: scale(1.0);
+}
+
 .content .project1 img {
   width: 700px; /* Adjust image width as needed */
   height: 150px;
   margin-right: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+.content .project1 img: hover{
+    transform: scale(1.);
 }
 
 .content .project2 img {
   width: 400px; /* Adjust image width as needed */
   height: 140px;
   margin-right: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
 }
 
 .content .project3 img {
   width: 500px; /* Adjust image width as needed */
   height: 120px;
   margin-right: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
 }
 .content .project4 img {
   width: 420px; /* Adjust image width as needed */
   height: 120px;
   margin-right: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
 }
 .content .project5 img {
   width: 520px; /* Adjust image width as needed */
   height: 130px;
   margin-right: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
 }
