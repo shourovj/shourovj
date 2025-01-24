@@ -206,13 +206,35 @@ a:hover {
   margin: 0;
 }
 
-.content .project {
+.content .project1, .project2, .project3, .project4, .project5, .project6{
   display: flex;
   margin-bottom: 20px;
 }
 
-.content .project img {
-  width: 100px; /* Adjust image width as needed */
-  height: 60px;
+.content .project1 img {
+  width: 700px; /* Adjust image width as needed */
+  height: 150px;
+  margin-right: 20px;
+}
+
+.content .project2 img {
+  width: 400px; /* Adjust image width as needed */
+  height: 140px;
+  margin-right: 20px;
+}
+
+.content .project3 img {
+  width: 500px; /* Adjust image width as needed */
+  height: 120px;
+  margin-right: 20px;
+}
+.content .project4 img {
+  width: 420px; /* Adjust image width as needed */
+  height: 120px;
+  margin-right: 20px;
+}
+.content .project5 img {
+  width: 520px; /* Adjust image width as needed */
+  height: 130px;
   margin-right: 20px;
 }
