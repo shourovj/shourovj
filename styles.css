@@ -77,6 +77,14 @@ nav a.active {
     margin-right: 15px;
 }
 
+.info h3 {
+    margin: 0;
+    font-size: 24px;
+    margin-left: -90px;
+    margin-right: 150px;
+    margin-top: -155px;
+}
+
 .info p {
     font-size: 14px;
     margin-left: -90px;
