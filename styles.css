@@ -162,17 +162,17 @@ a:hover {
     border-radius: 5%;
     margin-left: 10px;
 } */
-.profile-pic {
+.info .profile-pic {
   flex-shrink: 0; /* Prevent the image from shrinking */
   width: 250px; /* Set a fixed width for the image container */
-  margin-left: 300px;
+  margin-left: 320px;
   margin-right: 150px;
-  margin-top: 50px;
+  margin-top: 10px;
 }
 
-.profile-pic img {
+.info .profile-pic img {
   width: 200px;
-  height: 141px; /* Ensure the image scales properly */
+  height: 150px; /* Ensure the image scales properly */
   border-radius: 10px; /* Optional: Add rounded corners */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a shadow for better styling */
 }
