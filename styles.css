@@ -162,9 +162,12 @@ a:hover {
     border-radius: 5%;
     margin-left: 10px;
 } */
+
+
+/*
 .info .profile-pic {
-  flex-shrink: 0; /* Prevent the image from shrinking */
-  width: 250px; /* Set a fixed width for the image container */
+  flex-shrink: 0; 
+  width: 250px; 
   margin-left: 320px;
   margin-right: 150px;
   margin-top: 10px;
@@ -172,10 +175,48 @@ a:hover {
 
 .info .profile-pic img {
   width: 200px;
-  height: 150px; /* Ensure the image scales properly */
-  border-radius: 10px; /* Optional: Add rounded corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a shadow for better styling */
+  height: 150px; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
+*/
+
+
+.profile-picture-container {
+    display: flex;             /* from: flex */
+    justify-content: center;   /* from: justify-center */
+}
+
+/* Styling for the image itself */
+.profile-picture {
+    transform: translate(250px, -300px);
+    width: 12rem;              /* from: w-48 (1rem = 16px) */
+    height: 12rem;             /* from: h-48 */
+    border-radius: 9999px;     /* from: rounded-full */
+    object-fit: cover;         /* from: object-cover */
+    border-width: 4px;         /* from: border-4 */
+    border-color: #ffffff;     /* from: border-white */
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -2px rgb(0 0 0 / 0.1); /* from: shadow-lg */
+}
+
+/* --- Responsive Styles --- */
+
+/* For screens 640px and wider (sm breakpoint in Tailwind) */
+@media (min-width: 640px) {
+    .profile-picture {
+        width: 14rem;          /* from: sm:w-56 */
+        height: 14rem;         /* from: sm:h-56 */
+    }
+}
+
+/* For screens 768px and wider (md breakpoint in Tailwind) */
+@media (min-width: 768px) {
+    .profile-picture-container {
+        justify-content: flex-end; /* from: md:justify-end */
+    }
+}
+
+
 
 /* @media (max-width: 768px) {
     .container {
