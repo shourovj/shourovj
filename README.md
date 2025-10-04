@@ -1,26 +1,26 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 69cbbb1 (first)
-## Hi there 👋
+# Hi there 👋, I'm Shourov Joarder  
 
-<!--
-**shourovj/shourovj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Recent Graduate** in Electrical and Electronic Engineering (EEE) at **Bangladesh University of Engineering and Technology (BUET)**.
+**Lecturer** in CSE at **BRAC University**.
+**ML Engineer** at **ACI Ltd**.
+🔬 **Research Focus**: Computer Vision, LLM, VLM, Diffusion Models and Medical Imaging.
+💡 Passionate about advancing **trustworthy AI in multimodal learning** and building **next-generation imaging methods**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<<<<<<< HEAD
-=======
-=======
-# demo2
->>>>>>> f2ac132 (first commit)
->>>>>>> 69cbbb1 (first)
+## 🌱 Currently Research  
+- Vision-Language Models (VLMs) and multimodal reasoning.
+- Trustworthy and Fairness in Gen-AI (Diffusion Models and VLM).   
+- Physics-informed neural networks for biomechanical modeling.  
+
+---
+
+## 📫 How to reach me  
+- Email: [joardershourov60@gmail.com]
+- LinkedIn: [www.linkedin.com/in/shourovj]  
+- GitHub: [shourovj](https://shourovj.github.io/)  
+
+---
+
+## ⚡ Fun fact  
+I’m also a **photographer 📸**, and some of my works have been exhibited in international exhibitions — all shot on my phone!  
