@@ -18,7 +18,7 @@
 ## 📫 How to reach me  
 - Email: [joardershourov60@gmail.com]
 - LinkedIn: [www.linkedin.com/in/shourovj]  
-- GitHub: [shourovj](https://shourovj.github.io/)  
+- Website: [shourovj](https://shourovj.github.io/)  
 
 ---
 
