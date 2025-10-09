@@ -3,7 +3,7 @@
 🎓 **Recent Graduate** in Electrical and Electronic Engineering (EEE) at **Bangladesh University of Engineering and Technology (BUET)**.
 **Lecturer** in CSE at **BRAC University**.
 **ML Engineer** at **ACI Ltd**.
-🔬 **Research Focus**: Computer Vision, LLM, VLM, Diffusion Models and Medical Imaging.
+**Research Focus**: Computer Vision, LLM, VLM, Diffusion Models and Medical Imaging.
 💡 Passionate about advancing **trustworthy AI in multimodal learning** and building **next-generation imaging methods**.  
 
 ---
@@ -11,14 +11,7 @@
 ## 🌱 Currently Research  
 - Vision-Language Models (VLMs) and multimodal reasoning.
 - Trustworthy and Fairness in Gen-AI (Diffusion Models and VLM).   
-- Physics-informed neural networks for biomechanical modeling.  
-
----
-
-## 📫 How to reach me  
-- Email: [joardershourov60@gmail.com]
-- LinkedIn: [www.linkedin.com/in/shourovj]  
-- Website: [shourovj](https://shourovj.github.io/)  
+- Physics-informed neural networks for biomechanical modeling.
 
 ---
 
