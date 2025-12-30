@@ -4,7 +4,7 @@
 **Lecturer** in CSE at **BRAC University**.
 **ML Engineer** at **ACI Ltd**.
 **Research Focus**: Computer Vision, LLM, VLM, Diffusion Models and Medical Imaging.
-💡 Passionate about advancing **trustworthy AI in multimodal learning** and building **next-generation imaging methods**.  
+Passionate about advancing **trustworthy AI in multimodal learning** and building **next-generation imaging methods**.  
 
 ---
 
