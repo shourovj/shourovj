@@ -7,7 +7,7 @@
 
 ---
 
-## 🌱 Currently Research  
+## Currently Research  
 - Vision-Language Models (VLMs) and multimodal reasoning.
 - Trustworthy and Fairness in Gen-AI (Diffusion Models and VLM).   
 - Physics-informed neural networks for biomechanical modeling.
