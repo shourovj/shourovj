@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Shourov Joarder  
 
-🎓 **Phd Student** in ECE at **UT Austin**.
+🎓 **Phd Student** in ECE at **UT Austin**. 
 🎓 **Bsc** in Electrical and Electronic Engineering (EEE) at **Bangladesh University of Engineering and Technology (BUET)**.
 - **Research Focus**: Computer Vision, LLM, VLM, Diffusion Models, World Models, Post-Training.  
 
